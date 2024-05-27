@@ -1,0 +1,15 @@
+{
+  "name": "knipissue567repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "knip": "knip"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "knip": "^5.17.1",
+    "zod": "^3.23.8"
+  }
+}
